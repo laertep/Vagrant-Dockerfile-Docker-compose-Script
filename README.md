@@ -11,5 +11,5 @@ $ Instalação do Docker/Dockerfile através do Shell - inline
 
 $ Configuração do docker-compose.sh via Shell script - inline;
 * Criação do arquivo docker-compose.yml na pasta nginx-desafio05 para rodar aplicação Nginx na porta 8080;
-* Parametrizando os arquivos index.html e nginx.conf através da configuração do volumes;
+* Parametrizando os arquivos index.html e nginx.conf através da configuração dos volumes;
 * Execução do docker compose - docker-compose up -d 
